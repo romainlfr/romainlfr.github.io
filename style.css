@@ -792,11 +792,11 @@ header  img {
     margin: 5px;
 }
 
-.moment inframe {
+.moment iframe {
     height: 150px;
-    width: auto;
-    border-radius: 20px;
-    margin-left: 0;
+    width: 120%;
+    border-radius: 10px;
+    margin-left: -27px;
 }
 
 .moment nav {
